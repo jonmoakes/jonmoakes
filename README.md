@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Jonathan Oakes, from Stoke-on-Trent, England.
-- 👀 I specialise in react but also have experience in Swift, Python among the other things like HTML and CSS, javascript etc.
-- I run my own freelance web developer business called Solaris Apps ( https://www.solaris-apps.co.uk )
-- Outside of coding, I love the NFL 🏈 and Formula 1 🏎 :)
-- 📫 You can reach me at jonathan@solaris-apps.co.uk
+👋 Hi, I’m Jonathan Oakes, a React Developer from Stoke-on-Trent, England.
+I specialise in React.js and have experience working with technologies such as Swift, Python, HTML5, CSS3, and JavaScript. My main focus is building responsive, user-friendly web applications for small to medium-sized businesses.
 
-<!---
-jonmoakes/jonmoakes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I run my own freelance web development business, Solaris Apps - https://www.solaris-apps.co.uk - where I help businesses streamline their operations through custom web solutions.
+
+Currently, I am expanding my skill set by learning Golang for backend development and diving into TypeScript to improve frontend type safety and code quality.
+
+In my spare time, I’m a huge fan of the NFL 🏈 and Formula 1 🏎️.
+
+📫 Feel free to reach out: jonathan@solaris-apps.co.uk
